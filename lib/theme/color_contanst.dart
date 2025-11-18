@@ -1,0 +1,42 @@
+import 'package:flutter/material.dart';
+
+///Color constants used across the application.
+const kWhite = Color.fromRGBO(255, 255, 255, 1);
+const kDarkLightWhite = Color.fromRGBO(243, 243, 243, 1);
+const kDarkWhite = Color(0xFFD9D9D9);
+const kLight = Color.fromRGBO(56, 43, 43, 0.7411764705882353);
+const kLightGrey = Color(0xFF797979);
+const kBlackShade = Color.fromRGBO(17, 18, 24, 1);
+const kBlack = Color.fromRGBO(0, 0, 0, 1);
+const kBlackIos = Color.fromRGBO(7, 32, 48, 0.5019607843137255);
+const kBlue = Color.fromRGBO(25, 20, 104, 1);
+const deepSkyBlue = Color.fromRGBO(14, 110, 242, 0.1);
+const kDarkBlue = Color(0xff15335c);
+const kLightSkyBlue = Color(0xff4f99fe);
+const kLightShadeBlue = Color(0xff0084ff);
+const kBlueTurquoise = Color.fromRGBO(31, 199, 246, 0.25);
+
+const kDarkNavyBlue = Color.fromRGBO(18, 36, 47, 1);
+const kLightWhite = Color.fromRGBO(255, 255, 255, 0.5);
+const kDarkGrey = Color.fromRGBO(217, 217, 217, 0.1);
+const kSurface = Color.fromRGBO(30, 24, 24, 0.9882352941176471);
+const kSurfaceButton = Color.fromRGBO(30, 24, 24, 0.9);
+const kTransparent = Color.fromRGBO(0, 0, 0, 0);
+const kLightRed = Color(0xfffa4f5c);
+const kDarkPink = Color(0xffd93c65);
+const kRed = Color.fromRGBO(255, 0, 0, 1);
+const kGreen = Color.fromRGBO(5, 159, 48, 1);
+const kOrange = Color.fromRGBO(250, 6, 6, 1);
+const kLightOrange = Color.fromRGBO(250, 191, 191, 1);
+const iconBorderColor = Color.fromRGBO(255, 255, 255, 0.15);
+const iconBorderColorLight = Color.fromRGBO(255, 255, 255, 0.10);
+const stopWatchTimerColor = Color.fromRGBO(235, 235, 235, 1);
+const dropDownBackgroundColor = Color.fromRGBO(34, 34, 34, 1);
+const pending = Color(0xFFFF9702);
+const kGrey = Color.fromRGBO(128, 128, 128, 1);
+const createTeamCardColor1 = Color.fromRGBO(23, 92, 129, 0.7);
+const createTeamCardColor2 = Color.fromRGBO(23, 92, 129, 1.0);
+const scaffoldColor = Color(0x1920CBF6);
+const kOrangeColor = Color.fromRGBO(255, 163, 41, 1);
+const kAlertColor = Color(0xFF222222);
+const opaqueButtonColor = Color.fromRGBO(40, 50, 55, 1);
